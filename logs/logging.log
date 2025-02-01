@@ -1,1 +1,76 @@
 [2025-01-31 12:09:03,060: INFO: main: Custom logging]
+[2025-02-01 14:00:18,226: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-02-01 14:00:18,230: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-01 14:00:18,233: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-02-01 14:00:18,235: INFO: common: created directoy at: artifacts]
+[2025-02-01 14:00:18,236: INFO: common: created directoy at: artifacts/data_ingestion]
+[2025-02-01 14:00:19,198: INFO: 2895744878: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 8A14:CA9EA:3E59AD:57E49C:679DDB98
+Accept-Ranges: bytes
+Date: Sat, 01 Feb 2025 08:30:19 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100020-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1738398619.617579,VS0,VE492
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: ac110c43bb23ca9ba0a44d406b1df98338f17762
+Expires: Sat, 01 Feb 2025 08:35:19 GMT
+Source-Age: 0
+
+]
+[2025-02-01 19:19:47,796: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-02-01 19:19:47,808: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-01 19:19:47,810: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-02-01 19:19:47,812: INFO: common: created directoy at: artifacts]
+[2025-02-01 19:19:47,814: INFO: common: created directoy at: artifacts/data_ingestion]
+[2025-02-01 19:19:47,815: INFO: 2895744878: File already exists]
+[2025-02-01 19:38:27,796: INFO: main: Custom logging]
+[2025-02-01 19:38:27,797: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-02-01 19:38:27,798: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-02-01 19:38:27,799: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-01 19:38:27,799: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-02-01 19:38:27,800: INFO: common: created directoy at: artifacts]
+[2025-02-01 19:38:27,800: INFO: common: created directoy at: artifacts/data_ingestion]
+[2025-02-01 19:38:28,858: INFO: Data_Ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: FF9E:2845BF:4AD15C:69CA8B:679E2ADC
+Accept-Ranges: bytes
+Date: Sat, 01 Feb 2025 14:08:29 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100027-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1738418909.834773,VS0,VE495
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: b758c8792f7bdb2e014f3151a902aaf7fba85436
+Expires: Sat, 01 Feb 2025 14:13:29 GMT
+Source-Age: 0
+
+]
+[2025-02-01 19:38:28,882: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
