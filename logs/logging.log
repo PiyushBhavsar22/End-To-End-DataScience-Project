@@ -156,3 +156,43 @@ x==========x]
 [2025-02-02 17:25:30,808: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
 
 x==========x]
+[2025-02-02 17:37:02,351: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-02-02 17:37:02,355: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-02 17:37:02,358: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-02-02 17:37:02,360: INFO: common: created directoy at: artifacts]
+[2025-02-02 17:37:02,361: INFO: common: created directoy at: artifacts/data_transformation]
+[2025-02-02 17:37:02,394: INFO: 389921339: Splited data into training and test sets]
+[2025-02-02 17:37:02,395: INFO: 389921339: (1199, 12)]
+[2025-02-02 17:37:02,397: INFO: 389921339: (400, 12)]
+[2025-02-02 17:50:01,496: INFO: main: Custom logging]
+[2025-02-02 17:50:01,497: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-02-02 17:50:01,500: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-02-02 17:50:01,500: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-02 17:50:01,500: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-02-02 17:50:01,500: INFO: common: created directoy at: artifacts]
+[2025-02-02 17:50:01,504: INFO: common: created directoy at: artifacts/data_ingestion]
+[2025-02-02 17:50:01,505: INFO: Data_Ingestion: File already exists]
+[2025-02-02 17:50:01,507: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-02-02 17:50:01,508: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2025-02-02 17:50:01,509: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-02-02 17:50:01,509: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-02 17:50:01,512: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-02-02 17:50:01,514: INFO: common: created directoy at: artifacts]
+[2025-02-02 17:50:01,514: INFO: common: created directoy at: artifacts/data_validation]
+[2025-02-02 17:50:01,529: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2025-02-02 17:50:01,529: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2025-02-02 17:50:01,539: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-02-02 17:50:01,539: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-02 17:50:01,542: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-02-02 17:50:01,543: INFO: common: created directoy at: artifacts]
+[2025-02-02 17:50:01,543: INFO: common: created directoy at: artifacts/data_transformation]
+[2025-02-02 17:50:01,561: INFO: Data_Transformation: Splited data into training and test sets]
+[2025-02-02 17:50:01,562: INFO: Data_Transformation: (1199, 12)]
+[2025-02-02 17:50:01,562: INFO: Data_Transformation: (400, 12)]
+[2025-02-02 17:50:01,563: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
