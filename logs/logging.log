@@ -116,3 +116,23 @@ x==========x]
 [2025-02-02 13:53:50,858: INFO: common: yaml file: schema.yaml loaded successfully]
 [2025-02-02 13:53:50,860: INFO: common: created directoy at: artifacts]
 [2025-02-02 13:53:50,863: INFO: common: created directoy at: artifacts/data_validation]
+[2025-02-02 15:02:25,860: INFO: main: Custom logging]
+[2025-02-02 15:02:25,860: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-02-02 15:02:25,862: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-02-02 15:02:25,862: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-02 15:02:25,865: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-02-02 15:02:25,866: INFO: common: created directoy at: artifacts]
+[2025-02-02 15:02:25,866: INFO: common: created directoy at: artifacts/data_ingestion]
+[2025-02-02 15:02:25,867: INFO: Data_Ingestion: File already exists]
+[2025-02-02 15:02:25,878: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-02-02 15:02:25,879: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2025-02-02 15:02:25,881: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-02-02 15:02:25,882: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-02 15:02:25,884: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-02-02 15:02:25,885: INFO: common: created directoy at: artifacts]
+[2025-02-02 15:02:25,886: INFO: common: created directoy at: artifacts/data_validation]
+[2025-02-02 15:02:25,903: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
