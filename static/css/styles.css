@@ -1,0 +1,49 @@
+/* General Body Styles */
+body {
+    background-color: #f8f1f1; /* Light wine color */
+    font-family: 'Georgia', serif; /* Elegant font */
+}
+
+/* Container Styles */
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.9); /* White background with slight transparency */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Form Styles */
+.form-detail {
+    padding: 20px;
+}
+
+/* Input Styles */
+.input-text {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #d1a3a3; /* Light wine border */
+    border-radius: 5px;
+}
+
+/* Button Styles */
+.register {
+    background-color: #a0522d; /* Wine color */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.register:hover {
+    background-color: #8b4513; /* Darker wine color on hover */
+}
+
+/* Heading Styles */
+h2 {
+    color: #6a2c2c; /* Dark wine color */
+    text-align: center;
+}
